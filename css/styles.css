@@ -1,0 +1,60 @@
+.headtext {
+    font-family: "Times New Roman";
+    height: 30px;
+    font-size: 30px;
+    font-weight: 600;
+    margin: 15px;
+    text-align: center;
+    background: brown;
+    color: white;
+  }
+
+
+.img {
+    text-align: center;
+}
+
+
+.text1 {
+
+  font-size: 18px; 
+  margin: 15px;
+
+
+}
+
+
+  .block {
+
+    text-align: center;
+  }
+
+
+
+  .car {
+
+    border: 3px dashed;
+    
+
+  }
+
+
+
+  .text2 {
+      
+    font-size: 18px;
+    margin: 15px;
+  }
+
+
+
+  .podval {
+
+    color: white;
+    background: black;
+    text-align: center;
+    font-size: 20px;
+    margin: 15px;
+
+
+  }
